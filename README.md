@@ -142,7 +142,3 @@ Rota protegida acessível por ambas as funções CUSTOMER e ADMINISTRATOR.
 Rota protegida estritamente acessível pela função ADMINISTRATOR.
 
 * URL: GET /users/test/admin
-
-```
-
-```
